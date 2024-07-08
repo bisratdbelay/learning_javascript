@@ -1,6 +1,6 @@
 # learning_javascript
 textbook
 
-//magic mouse
-//minecraft
+//magic mouse/n
+//minecraft/n
 //B&N membership
